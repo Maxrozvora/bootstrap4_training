@@ -33,7 +33,14 @@ address {
 .navbar-inverse {
     background-color: #5112da;
 }
-
+.bnt-social-icon {
+    width: 30px;
+    height: 30px;   
+}
+.bnt-social-icon .footer-btn {
+        display: flex;
+        justify-content: center;
+}
 
 @media (max-width: 576px) {
     .text {
