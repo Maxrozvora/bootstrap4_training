@@ -1,3 +1,8 @@
+body {
+    padding-top: 50px;
+    z-index: 0;
+}
+
 .row-header {
     margin: 0 auto;
     padding: 0 auto;
@@ -24,6 +29,9 @@ address {
     font-size: 80%;
     margin: 0;
     color: #0f0f0f;
+}
+.navbar-inverse {
+    background-color: #5112da;
 }
 
 
