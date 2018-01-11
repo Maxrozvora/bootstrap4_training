@@ -41,9 +41,13 @@ address {
         display: flex;
         justify-content: center;
 }
+.img-logo {
+    height: 30px;
+    width: 41px;
+}
 
 @media (max-width: 576px) {
     .text {
-        visibility: hidden;
+        display: none;
     }
 }
