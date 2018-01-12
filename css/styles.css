@@ -13,6 +13,14 @@ body {
     border-bottom: 1px ridge;
     min-height: 400px;
 }
+.row-element {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn-jumbo {
+    color: #fff;
+    width: 100%;
+}
 .footer {
     background-color: #d1c4e9;
     margin: 0 auto;
